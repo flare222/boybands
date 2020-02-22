@@ -1,0 +1,200 @@
+[
+  {
+    "model": "boybands.boyband",
+    "pk": 1,
+    "fields": {
+      "song_lyrics": "Coming with the funk, Bring it on wickedness",
+      "song_name": "Everybody Get Up",
+      "band_name": "Five"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 2,
+    "fields": {
+      "song_lyrics": "Sometimes it feels like life has no meaning, But I know things will be alright in the end",
+      "song_name": "Keep On Movin",
+      "band_name": "Five"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 3,
+    "fields": {
+      "song_lyrics": "If this Is what you're wanting over there, Throw your hands up In the air, Cos you know we bring the sounds so unique",
+      "song_name": "Got The Feelin",
+      "band_name": "Five"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 4,
+    "fields": {
+      "song_lyrics": "I heard somebody say (what?),She's at the party so (huh!), I'm gonna get me some (ah!)",
+      "song_name": "If Ya Gettin' Down",
+      "band_name": "Five"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 5,
+    "fields": {
+      "song_lyrics": "I never wanted to be so unkind, The only one thing on my mind, Is just kickin' it with you, girl",
+      "song_name": "When The Lights Go Out",
+      "band_name": "Five"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 6,
+    "fields": {
+      "song_lyrics": "I'll be the sponge, the sponge, The sponge that wets you down, Then I'll be the towel upon, Your naked body, wrapped around",
+      "song_name": "Deep",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 7,
+    "fields": {
+      "song_lyrics": "We are the seed of the new breed, We'll succeed, our time has come",
+      "song_name": "It's Alright",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 8,
+    "fields": {
+      "song_lyrics": "Thought I heard you say, You love me, That your love was gonna be here to stay",
+      "song_name": "Stay Another Day",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 9,
+    "fields": {
+      "song_lyrics": "Love can love you, Love can heal you, Love can see you, Love can feel you, Love can warm you (oh babe), Love can calm you, Love will help you, Love won't harm you",
+      "song_name": "Steam",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 10,
+    "fields": {
+      "song_lyrics": "And we pray, We pray for the unseen, To be seen by the eyes of man, When heaven and earth are hand in hand",
+      "song_name": "Let It Rain",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 11,
+    "fields": {
+      "song_lyrics": "Seen the seas seven, sailed across them all, Seen the moon rise over Paris, and I watched her gently fall",
+      "song_name": "Around The World",
+      "band_name": "East 17"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 12,
+    "fields": {
+      "song_lyrics": "Now I can see that we've fallen apart, From the way that it used to be, yeah",
+      "song_name": "I Want It That Way",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 12,
+    "fields": {
+      "song_lyrics": "If you wanna party let me hear you yell, 'Cause we've got it goin' on again",
+      "song_name": "Everybody (Backstreet's Back)",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 13,
+    "fields": {
+      "song_lyrics": "Every little thing that you have said and done, Feels like it's deep within me, Doesn't really matter if you're on the run, It seems like we're meant to be",
+      "song_name": "As Long As You Love Me",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 14,
+    "fields": {
+      "song_lyrics": "Sometimes I wish I could turn back time, Impossible as it may seem, But I wish I could so bad, baby",
+      "song_name": "Quit Playing Games (With My Heart)",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 15,
+    "fields": {
+      "song_lyrics": "When you talk, does it seem like he's not, Even listening to a word you say?, That's okay, baby, just tell me your problems, I'll try my best to kiss them all away",
+      "song_name": "All I Have To Give",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 16,
+    "fields": {
+      "song_lyrics": "Once I could handle the truth, When the truth was you and I, But time after time all the, Promises turned out to be all lies",
+      "song_name": "10,000 Promises",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 17,
+    "fields": {
+      "song_lyrics": "So I stood there watching, And I was hypnotized, By the rythum of you body, And the music in your eyes",
+      "song_name": "Hey Mr DJ (Keep Playin' This Song)",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 18,
+    "fields": {
+      "song_lyrics": "If you really like it hot, Find someone who hits the spot honey (oh yes)",
+      "song_name": "If You Want It to Be Good Girl (Get Yourself a Bad Boy)",
+      "band_name": "Backstreet Boys"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 19,
+    "fields": {
+      "song_lyrics": "You've got no choice, babe, But to move on, and you know, There ain't no time to waste",
+      "song_name": "It's Gonna Be Me",
+      "band_name": "NSYNC"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 20,
+    "fields": {
+      "song_lyrics": "I told you not to worry, I said that everything would be all right, I didn't know then that you were right",
+      "song_name": "I Want You Back",
+      "band_name": "NSYNC"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 21,
+    "fields": {
+      "song_lyrics": "If you want me girl, let me know, I am down, on my knees, I can't take it anymore",
+      "song_name": "Tearin' Up My Heart",
+      "band_name": "NSYNC"
+    }
+  }
+]
