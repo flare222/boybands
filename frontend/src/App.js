@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
+import './styles/main.scss'
 
 import Nav from './components/Nav'
 import Home from './components/Home'

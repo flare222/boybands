@@ -14,7 +14,7 @@ export default class Game extends React.Component {
     score: 0
   }
 
-  
+
 
 
   handleChange = ({ target: { name, value } }) => {
@@ -31,33 +31,35 @@ export default class Game extends React.Component {
   render() {
     return (
       <section>
-        <h1>Boy Bands 4eva!</h1>
+        <div className="game">
 
+          <h1>Boy Bands 4eva!</h1>
 
+          <form onSubmit={this.handleSubmit}>
 
-        <form onSubmit={this.handleSubmit}>
+            <div className="form-div">
+              <label>Band Name:</label>
+              <input
+                placeholder="your answer here"
+                name="band"
+                onChange={this.handleChange}/>
+            </div>
 
-          <div>
-            <label>Band Name:</label>
-            <input
-              placeholder="your answer here"
-              name="band"
-              onChange={this.handleChange}/>
-          </div>
+            <div className="form-div">
+              <label>Song Title:</label>
+              <input
+                placeholder="your answer here"
+                name="song"
+                onChange={this.handleChange}/>
+            </div>
 
-          <div>
-            <label>Song Title:</label>
-            <input
-              placeholder="your answer here"
-              name="song"
-              onChange={this.handleChange}/>
-          </div>
+            <div>
+              <button type="submit">Submit</button>
+            </div>
 
-          <div>
-            <button type="submit">Submit</button>
-          </div>
-
-        </form>
+          </form>
+        </div>
+        
       </section>
     )
   }
