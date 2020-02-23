@@ -1,21 +1,15 @@
 import React from 'react'
 
+import Lyrics from './Lyrics'
+
 export default class Game extends React.Component {
   state = {
-    song: {
-      song_lyrics: '',
-      band_name: '',
-      song_name: ''
-    }, 
     data: {
       band: '',
       song: ''
     },
     score: 0
   }
-
-
-
 
   handleChange = ({ target: { name, value } }) => {
     const data = { ...this.state.data, [name]: value }
@@ -34,6 +28,10 @@ export default class Game extends React.Component {
         <div className="game">
 
           <h1>Boy Bands 4eva!</h1>
+
+          <div className="lyrics">
+            <Lyrics />
+          </div>
 
           <form onSubmit={this.handleSubmit}>
 
