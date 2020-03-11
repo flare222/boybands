@@ -6,3 +6,4 @@ class BoybandSerializer(serializers.ModelSerializer):
     model = Boyband
     fields = '__all__'
 
+# class PopulatedBoybandSerializer(serializers.ModelSerializer):

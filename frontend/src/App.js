@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
+// import ReactDOM from 'react-dom'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import './styles/main.scss'
 
@@ -8,7 +8,7 @@ import Home from './components/Home'
 import Game from './components/Game'
 import Footer from './components/Footer'
 
-class App extends React.Component {
+export default class App extends React.Component {
   render() {
     return (
       <main>
@@ -27,7 +27,7 @@ class App extends React.Component {
     
 
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-)
+// ReactDOM.render(
+//   <App />,
+//   document.getElementById('root')
+// )

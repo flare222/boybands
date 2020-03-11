@@ -5,7 +5,7 @@ import { AiFillHome } from 'react-icons/ai'
 const Nav = () => (
   <nav>
     <Link to ="/"><AiFillHome/> Home</Link>
-
+    
   </nav>
 )
 

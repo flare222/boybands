@@ -1,4 +1,5 @@
 import React from 'react'
+import axios from 'axios'
 
 import Lyrics from './Lyrics'
 
@@ -8,7 +9,18 @@ export default class Game extends React.Component {
       band: '',
       song: ''
     },
+    song: [],
     score: 0
+  }
+
+  async componentDidMount() {
+    try {
+      const res = await axios.get('/api/game/')
+      console.log(res.data[0])
+      this.setState({ song: res.data[0] })
+    } catch (error) {
+      console.log(error)
+    }
   }
 
   handleChange = ({ target: { name, value } }) => {
@@ -23,14 +35,13 @@ export default class Game extends React.Component {
   }
 
   render() {
+    if (!this.state.song) return null
     return (
       <section>
         <div className="game">
 
-          <h1>Boy Bands 4eva!</h1>
-
           <div className="lyrics">
-            <Lyrics />
+            <Lyrics song={this.state.song}/>
           </div>
 
           <form onSubmit={this.handleSubmit}>
