@@ -11,7 +11,8 @@ import Footer from './components/Footer'
 export default class App extends React.Component {
   render() {
     return (
-      <main>
+      <main className="page-container">
+        <div className="content-wrap">
         <BrowserRouter>
           <Nav />
           <Switch>
@@ -20,6 +21,7 @@ export default class App extends React.Component {
           </Switch>
           <Footer />
         </BrowserRouter>
+        </div>
       </main>
     )
   }

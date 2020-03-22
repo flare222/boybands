@@ -1,13 +1,20 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import { AiOutlineTwitter, AiFillLinkedin, AiFillFolder } from 'react-icons/ai'
 
 const Footer = () => (
   <footer>
     <nav>
-      <Link to="#"><AiOutlineTwitter/> Twitter</Link>
-      <Link to="#"><AiFillLinkedin/> LinkedIn</Link>
-      <Link to="#"><AiFillFolder/> Portfolio</Link>
+      <a href="https://twitter.com/flarer222" 
+      target="_blank" 
+      rel="noopener noreferrer">
+      <AiOutlineTwitter/> 
+      Twitter</a>
+      <a href="https://www.linkedin.com/in/clare-robertson-ab1ba0142/"
+      target="_blank" 
+      rel="noopener noreferrer">
+      <AiFillLinkedin/> 
+      LinkedIn</a>
+      <a href="#"><AiFillFolder/> Portfolio</a>
     </nav>
   </footer>
 )
