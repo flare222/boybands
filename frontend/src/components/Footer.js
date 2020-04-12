@@ -14,7 +14,9 @@ const Footer = () => (
       rel="noopener noreferrer">
       <AiFillLinkedin/> 
       LinkedIn</a>
-      <a href="#"><AiFillFolder/> Portfolio</a>
+      <a href="https://flare222.github.io/portfolio/"
+      target="_blank" 
+      rel="noopener noreferrer"><AiFillFolder/> Portfolio</a>
     </nav>
   </footer>
 )

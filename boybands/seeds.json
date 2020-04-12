@@ -112,7 +112,7 @@
     "pk": 13,
     "fields": {
       "song_lyrics": "If you wanna party let me hear you yell, 'Cause we've got it goin' on again",
-      "song_name": "Everybody (Backstreet's Back)",
+      "song_name": "Everybody",
       "band_name": "Backstreet Boys"
     }
   },
@@ -157,7 +157,7 @@
     "pk": 18,
     "fields": {
       "song_lyrics": "So I stood there watching, And I was hypnotized, By the rythum of you body, And the music in your eyes",
-      "song_name": "Hey Mr DJ (Keep Playin' This Song)",
+      "song_name": "Hey Mr DJ",
       "band_name": "Backstreet Boys"
     }
   },
@@ -166,7 +166,7 @@
     "pk": 19,
     "fields": {
       "song_lyrics": "If you really like it hot, Find someone who hits the spot honey (oh yes)",
-      "song_name": "If You Want It to Be Good Girl (Get Yourself a Bad Boy)",
+      "song_name": "If You Want It to Be Good Girl",
       "band_name": "Backstreet Boys"
     }
   },
@@ -193,7 +193,7 @@
     "pk": 22,
     "fields": {
       "song_lyrics": "If you want me girl, let me know, I am down, on my knees, I can't take it anymore",
-      "song_name": "Tearin' Up My Heart",
+      "song_name": "Tearin Up My Heart",
       "band_name": "NSYNC"
     }
   },
@@ -201,99 +201,162 @@
     "model": "boybands.boyband",
     "pk": 23,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Let me lick you up and down, Til' you say stop (every time I think about your love, I want to lick you down)",
+      "song_name": "Freak Me",
+      "band_name": "Another Level"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 24,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Look in my eyes, You'll see a love that's deep and true, Tender and strong, And all for you",
+      "song_name": "From The Heart",
+      "band_name": "Another Level"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 25,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "While I'm singing my song, all through the hoody hoody wanna get the goody goody",
+      "song_name": "Bomb Diggy",
+      "band_name": "Another Level"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 26,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Why should I play the field, When it's you that I want, I'm not that jealous type, But I ain't gonna front",
+      "song_name": "I Want You For Myself",
+      "band_name": "Another Level"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 27,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Finding a paradise wasn't easy but still, There's a road going down the other side of this hill",
+      "song_name": "Never Forget",
+      "band_name": "Take That"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 28,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "The rumors true, you know that there've been others, What can I do, I tell you baby they don't mean a thing",
+      "song_name": "Everything Changes",
+      "band_name": "Take That"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 29,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Take me back, take me back, To where I used to be, To hide away from all my truth, Through the light I see",
+      "song_name": "A Million Love Songs",
+      "band_name": "Take That"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 30,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Moving on she brings me brighter days, Thoughts of you are in my mind always, Like a memory that I can't erase, it's here to stay.",
+      "song_name": "Caught in the Middle",
+      "band_name": "A1"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 31,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Your first kiss was a sweet kiss, Second kiss had a twist, Third and your fourth kiss, I don't want to miss",
+      "song_name": "You Got It (The Right Stuff)",
+      "band_name": "New Kids On The Block"
     }
   },
   {
     "model": "boybands.boyband",
     "pk": 32,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Don't worry 'bout nothin' 'cause it won't take long, We're gonna put you in a trance with a funky song",
+      "song_name": "Hangin Tough",
+      "band_name": "New Kids On The Block"
     }
   },
     {
     "model": "boybands.boyband",
     "pk": 33,
     "fields": {
-      "song_lyrics": "",
-      "song_name": "",
-      "band_name": ""
+      "song_lyrics": "Give me a signal please give me a sign, Come on baby don't waste no more precious time, In the midnight, moonlight shine, Don't hold back tonight, give me the green light",
+      "song_name": "Don't Make me Wait",
+      "band_name": "911"
     }
   },
+  {
+    "model": "boybands.boyband",
+    "pk": 34,
+    "fields": {
+      "song_lyrics": "And if you thought you had me fooled, I'm telling you now, objection overruled (oh, baby)",
+      "song_name": "All Rise",
+      "band_name": "Blue"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 35,
+    "fields": {
+      "song_lyrics": "I refused to give up, I refused to give in, (Yeah), You're my everything, I don't wanna give up, don't wanna give in, oh so, Everybody sing",
+      "song_name": "One Love",
+      "band_name": "Blue"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 36,
+    "fields": {
+      "song_lyrics": "I can't answer, I can't answer that, When will I see my picture in the paper?",
+      "song_name": "When Will I be Famous",
+      "band_name": "Bros"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 37,
+    "fields": {
+      "song_lyrics": "Everybody wants to know her name, I threw a house party and she came, Everyone asked me, Who the hell is she?",
+      "song_name": "5 Colours in her Hair",
+      "band_name": "McFly"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 38,
+    "fields": {
+      "song_lyrics": "Everybody wants to know her name, I threw a house party and she came, Everyone asked me, Who the hell is she?",
+      "song_name": "Obviously",
+      "band_name": "McFly"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 39,
+    "fields": {
+      "song_lyrics": "Hey girl, it's now or never, it's now or never, Don't over-think just let it go, And if we get together, yeah, get together",
+      "song_name": "Live While We're Young",
+      "band_name": "One Direction"
+    }
+  },
+  {
+    "model": "boybands.boyband",
+    "pk": 40,
+    "fields": {
+      "song_lyrics": "And I would answer all, Your wishes, If you asked me to, But if you deny me one, Of your kisses, Don't know what I'd do",
+      "song_name": "All About You",
+      "band_name": "McFly"
+    }
+  }
 ]

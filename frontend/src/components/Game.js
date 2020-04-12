@@ -20,7 +20,7 @@ export default class Game extends React.Component {
     try {
       const res = await axios.get('/api/game/')
       const randomIndex = (Math.floor(Math.random() * res.data.length))
-      console.log(res.data[randomIndex])
+      // console.log(res.data[randomIndex])
       this.setState({ song: res.data[randomIndex]})
     } catch (error) {
       console.log(error)
@@ -93,7 +93,7 @@ export default class Game extends React.Component {
           </form>
       </section>
       : null }
-      
+
       {!this.state.showWinner ? 
       <section className="score">
         <p>Score:</p>
