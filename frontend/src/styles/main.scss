@@ -79,6 +79,7 @@ span {
 }
 
 .game {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -181,6 +182,10 @@ footer {
   .main-game {
     flex-wrap: wrap;
     margin: 10px;
+  }
+
+  .game {
+    margin: 0px;
   }
 
   h2 {
