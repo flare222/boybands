@@ -11,18 +11,21 @@ import Footer from './components/Footer'
 export default class App extends React.Component {
   render() {
     return (
-      <main className="page-container">
-        <div className="content-wrap">
+      
         <BrowserRouter>
-          <Nav />
+        <Nav />
+        <main className="page-container">
+        <div className="content-wrap">
           <Switch>
             <Route exact path="/" component={Home}/>
             <Route path="/game" component={Game}/>
           </Switch>
-          <Footer />
-        </BrowserRouter>
         </div>
-      </main>
+        
+        <Footer />
+        </main>
+        </BrowserRouter>
+      
     )
   }
 }

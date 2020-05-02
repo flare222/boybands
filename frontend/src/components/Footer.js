@@ -3,7 +3,6 @@ import { AiOutlineTwitter, AiFillLinkedin, AiFillFolder } from 'react-icons/ai'
 
 const Footer = () => (
   <footer>
-    <nav>
       <a href="https://twitter.com/flarer222" 
       target="_blank" 
       rel="noopener noreferrer">
@@ -17,7 +16,6 @@ const Footer = () => (
       <a href="https://flare222.github.io/portfolio/"
       target="_blank" 
       rel="noopener noreferrer"><AiFillFolder/> Portfolio</a>
-    </nav>
   </footer>
 )
 
